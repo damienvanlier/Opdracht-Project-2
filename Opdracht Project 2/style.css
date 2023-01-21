@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 60%;
+}
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    background-color: darkslategray;
+}
+nav {
+    background-color: gray;
+    color: white;
+    width: 100ww;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    height: 15vh;
+}
+nav div {
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul {
+    
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    margin: 0 5rem;
+}
+nav li {
+    margin-left: 2rem;
+  }
+  
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+}
+  h1 {
+    font-family: "Pattaya", sans-serif;
+    font-size: 2.8rem;
+    font-weight: 400;
+    margin: 1rem 0;
+    margin-left: 4rem;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+  }
+  .dropdown-content a {
+    color: gray;
+    padding: 12px 12px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown {
+    position: static;
+}  
+
+h3 {
+    color: white;
+    padding-top: 20vh;
+    font-size:xx-large;
+    padding-left: 5vh;
+    position: fixed;
+}
+h4 {
+  padding-top: 30vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+}
+.p1 {
+  padding-top: 34vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+}
+.p2 {
+  padding-top: 38vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+}
+.p3 {
+  padding-top: 42vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+}
+.p4 {
+  padding-top: 46vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+}
+.p5 {
+  padding-top: 50vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+}
+.p6 {
+  padding-top: 54vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+  font-weight: bold;
+}
+.p7 {
+  padding-top: 58vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+}
+.p8 {
+  padding-top: 62vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+  font-weight: bold;
+}
+.p9 {
+  padding-top: 66vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+}
+.p10 {
+  padding-top: 70vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+}
+.p11 {
+  padding-top: 74vh;
+  padding-left: 5vh;
+  position: fixed;
+  font-size: large;
+}
+.img1 {
+  position: fixed;
+  width: 200px;
+  height: 200px;
+  padding-top: 40vh;
+  padding-left: 5vh;
+}
+.img2 {
+  position: fixed;
+  width: 300px;
+  height: 200px;
+  padding-top: 40vh;
+  padding-left: 50vh;
+}
+.img3 {
+  position: fixed;
+  width: 350px;
+  height: 200px;
+  padding-top: 40vh;
+  padding-left: 108vh;
+}
+.css1 {
+  padding-top: 34vh;
+  padding-left: 50vh;
+  position: fixed;
+  font-size: large;
+}
+.css2 {
+  padding-top: 34vh;
+  padding-left: 108vh;
+  position: fixed;
+  font-size: large;
+}
+.img4 {
+  position: fixed;
+  width: 300px;
+  height: 200px;
+  padding-top: 40vh;
+  padding-left: 5vh;
+}
+.img5 {
+  position: fixed;
+  width: 350px;
+  height: 200px;
+  padding-top: 40vh;
+  padding-left: 96vh;
+}
+.css3 {
+  padding-top: 34vh;
+  padding-left: 96vh;
+  position: fixed;
+  font-size: large;
+}
